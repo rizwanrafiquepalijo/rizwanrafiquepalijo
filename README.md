@@ -1,16 +1,25 @@
-## Hi there 👋
+<h1 align="center">Hi 👋, I'm Rizwan Rafique</h1>
+<h3 align="center">Software Engineering graduate (Mehran UET, Pakistan). I build and evaluate machine learning systems for education and health, and I care about checking whether a result is real before reporting it.</h3>
 
-<!--
-**rizwanrafiquepalijo/rizwanrafiquepalijo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- EduAssist **Adaptive learning platform (undergraduate thesis). Pilot with 50 students showed a 35% performance gain. <STATE THE COMPARISON: pre/post or control group> | Next.js 15, NestJS 11, MongoDB, JWT, Jest/Vitest/Selenium**
 
-Here are some ideas to get you started:
+- DengueForecast **Weekly dengue case forecasting for two cities with rolling time-based validation. Weather features gave no reliable gain over a seasonal baseline. | Python, Streamlit**
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- Vaxgap **Predicting incomplete basic vaccination in children 12-23 months, Pakistan DHS 2017-18. Baseline vs logistic regression vs random forest, SHAP, urban/rural and wealth subgroup checks. | Python, scikit-learn, SHAP, Streamlit**
+
+- ChestScan-CNN **ResNet18 fine-tuned on paediatric chest X-rays with patient-level splits. Test ROC-AUC 0.97, sensitivity 0.99, specificity 0.76. Image size alone predicted the label (AUC 0.90), so I tested with size-matched data and Grad-CAM.**
+
+- Ali, U., Murtaza, G., Rafique, R. (2026). *Flood Vulnerability Assessment of Sujawal Taluka, Sindh, Pakistan: A GIS-Based Multi-Criteria Analysis Approach.* Fusion Journal of Engineering and Sciences. [DOI (https://doi.org/10.51846/vol9iss1pp6-18)](DOI (https://doi.org/10.51846/vol9iss1pp6-18))
+
+- 📫 How to reach me **palijorizwanrafique746@gmail.com**
+
+- Rafique, R., Ali, M., & Meghji, A. F. (2026). *EduAssist: Enhancing Academic Skills and Engagement Through Personalization and Gamification.* Pakistan Journal of Engineering and Technology. [DOI (https://doi.org/10.64615/fjes...2026.112)](DOI (https://doi.org/10.64615/fjes...2026.112))
+
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://linkedin.com/in/https://www.linkedin.com/in/rizwan-rafique-21sw026" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/rizwan-rafique-21sw026" height="30" width="40" /></a>
+</p>
+
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> <a href="https://www.blender.org/" target="_blank" rel="noreferrer"> <img src="https://download.blender.org/branding/community/blender_community_badge_white.svg" alt="blender" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://nestjs.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nestjs/nestjs-plain.svg" alt="nestjs" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://pytorch.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a> <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> </p>
+
